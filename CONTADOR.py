@@ -1,6 +1,6 @@
 import os
 os.system('clear')
-palabra = input("Ingrese una palabra: ")
+palabra = input("Ingrese una palabra que tenga muchas vocales: ")
 conteo_vocales = {'a': 0, 'e': 0,'i': 0,'o': 0,'u': 0}
 
 for letra in palabra:
