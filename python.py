@@ -1,1 +1,6 @@
-print("holaaaaaaaaa")
+
+
+
+
+print(list(range(100)))
+
